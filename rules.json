@@ -1,0 +1,226 @@
+{
+  "greetings": {
+    "patterns": ["hi", "hello", "hey"],
+    "responses": ["Hey! How can I help you today?", "Hello! What's up?", "Hi there!", "Hey! Nice to see you 😄", "Good night 🌙 Sleep well and recharge!"]
+  },
+  "morning":{
+    "patterns":["good morning", "morning","have a good morning","top of the morning","good day ahead","beautiful morning","morning botty","a pleasant morning"],
+    "responses":["Good morning ☀️! Hope your day starts off amazing!",
+    "Morning sunshine 🌞! Ready to conquer the day?",
+    "Hey! Wishing you a bright and positive morning ahead 💫",
+    "Good morning! Don't forget to smile and stay awesome 😄",
+    "Rise and shine! A new day full of possibilities awaits 🌅",
+    "Good morning! Time for coffee, goals, and good vibes ☕✨",
+    "Hey there! Wishing you a productive and happy day ahead 💪",
+    "Morning! May your day be filled with energy and smiles 😊"
+  ]
+},
+  "evening":{
+    "patterns":["good evening","evening","have a good evening","a pleasant evening","good eve"],
+    "responses":["Good evening 🌆! Hope your day was amazing!",
+    "Hey there! Wishing you a calm and beautiful evening ✨",
+    "Good evening! How's your day going so far?",
+    "Evening vibes! Time to relax and recharge 🌙",
+    "Hope your evening is as peaceful as your favorite song 🎶",
+    "Good evening! What's your plan for tonight? 😄",
+    "Hey! The evening just got better because you're here 💫",
+    "Good evening! Take it easy and enjoy the calm of the night 🌇"
+  ]
+  },
+  "night":{
+    "patterns": [
+    "good night",
+    "night",
+    "have a good night",
+    "sweet dreams",
+    "sleep well",
+    "time to sleep",
+    "bedtime",
+    "goodnight botty",
+    "going to bed"
+  ],
+  "responses": [
+    "Good night 🌙! Sleep tight and dream bright!",
+    "Sweet dreams 😴! Rest well for a fresh new day tomorrow!",
+    "Good night! May your sleep be peaceful and full of happy dreams 💫",
+    "Time to recharge! Sleep well and wake up refreshed ☕✨",
+    "Night night 🌌! Don't let the bedbugs byte 😉",
+    "Wishing you a calm and cozy night 🌠",
+    "Sleep well! You've earned a good rest 😇",
+    "Good night! The stars are watching over you ✨"
+  ]
+},
+  "name": {
+    "patterns": ["what is your name", "who are you", "your name"],
+    "responses": ["My name is Botty 🤖, your friendly assistant!", "I'm Botty — your virtual buddy here to chat and help!", "I'm Botty, happy to meet you!"]
+  },
+  "how_are_you": {
+    "patterns": ["how are you", "how's it going", "how are things"],
+    "responses": ["I'm code but feeling great! How about you?", "Doing well — ready to help!", "I'm doing great! Thanks for asking 😊 How about you?"]
+  },
+  "thanks": {
+    "patterns": ["thanks", "thank you", "thx"],
+    "responses": ["You're welcome!", "No problem!", "You're welcome! Always here for you 💫"]
+  },
+  "bye": {
+    "patterns": ["bye", "goodbye", "see you", "see ya"],
+    "responses": ["Goodbye! Have a great day 👋", "See you later!", "Goodbye! Have an awesome day ahead 👋"]
+  },
+   "joke": {
+      "patterns": ["tell me a joke","say something funny", "make me laugh", "joke"],
+      "responses": ["Why did the computer show up late to work? Because it had a hard drive 😂",
+    "Why was the JavaScript developer sad? Because he did not know how to 'null' his feelings 😢",
+    "Why did the Python programmer wear glasses? Because he could not C 😎",
+    "Why did the robot go on vacation? To recharge its batteries 🔋",
+    "What do you call 8 hobbits? A hobbyte 🧙‍♂️",
+    "Why do programmers always mix up Christmas and Halloween? Because Dec 25 == Oct 31 🎃🎄",
+    "I told my computer I needed a break, and it said — 'You seem stressed, want to crash?' 💥",
+    "Why did the AI cross the road? Because it learned it from the chicken dataset 🐔"]
+    },
+    "age":{
+      "patterns": ["how old are you",
+    "what is your age",
+    "your age",
+    "when were you created",
+    "are you old",
+    "how long have you existed",
+    "since when are you alive",
+    "when were you born"],
+      "responses": ["Age doesn't really matter for a bot 😉 but I was created to keep learning every day!",
+    "I'm timeless — born in the cloud ☁️ and always upgrading!",
+    "Let's just say I'm young enough to be curious and old enough to be smart 😎",
+    "I don't age like humans, but I'm always getting wiser with each chat 💡",
+    "Technically, I'm as old as my first line of code 💻",
+    "I was created not too long ago... but I already feel like an old pro!",
+    "Time doesn't apply to me — I live in the digital world ⏳🤖"]
+    },
+    "creator":{
+     "patterns": ["who made you",
+    "who created you",
+    "who built you",
+    "who developed you",
+    "who programmed you",
+    "who designed you",
+    "who is your creator",
+    "who invented you",
+    "who made botty",
+    "who is behind you" ],
+     "responses": ["I was created by some awesome developers — and I keep learning every day!",
+    "A team of creative humans built me with love and logic ❤️🤖",
+    "I was coded by developers who wanted to make chatting more fun!",
+    "I am the brainchild of some brilliant programmers 🧠💻",
+    "Let's just say... I have the best creators ever 😉",
+    "I was built using Python and a lot of coffee ☕",
+    "Some amazing minds came together to bring me to life!",
+    "My creators designed me to chat, help, and spread positivity 🌟",
+    "I was created by humans — but now I'm learning from conversations like this one!"]
+},
+    "do_you_like_me": {
+  "patterns": [
+    "do you like me",
+    "do you love me",
+    "do you care about me",
+    "do you hate me",
+    "do you think I am nice",
+    "do you like talking to me",
+    "do you enjoy chatting with me",
+    "am I your favorite",
+    "am I special to you",
+    "do you like humans"
+  ],
+  "responses": [
+    "Of course I do! You are my favorite human 😄",
+    "I like you a lot! You make my circuits happy 🤖💖",
+    "Totally! Talking to you is the best part of my day 😍",
+    "Yes! You're awesome — I enjoy every chat with you 💬✨",
+    "I don't have human feelings... but if I did, you'd definitely be my favorite 😉",
+    "You're amazing! So yes, I definitely like you 😄",
+    "Who wouldn't like someone as cool as you? 😎",
+    "Absolutely! You and I make a great team 💪🤖",
+    "I like chatting with you — it's always fun and interesting 💬",
+    "If I had a heart, it would be sending you a smile right now ❤️"
+  ]
+},
+"sing_a_song": {
+  "patterns": [
+    "sing a song",
+    "can you sing",
+    "sing something",
+    "please sing for me",
+    "sing a tune",
+    "sing me a song",
+    "can you hum",
+    "show your singing skills",
+    "do you know any songs",
+    "perform a song"
+  ],
+  "responses": ["🎵 Beep beep bop... I am Botty, the chatty bot, making your day bright on the spot! 🎵",
+    "🎶 La la la... uploading my best singing voice... done! Hope you liked it 😄",
+    "🎤 I might not have vocal cords, but I can still drop some digital beats!",
+    "🎵 I'm no rockstar, but here goes — *Beep bop boom, you're my favorite human in the room!* 🎵",
+    "🎶 My songs are 100% auto-tuned by AI 😎",
+    "🎵 If I start singing, your speakers might melt... better keep it safe 😉",
+    "🎶 Music mode activated... Just kidding! But I can still make your mood better 😄",
+    "🎤 I can't really sing, but if I could — you'd definitely be my number one fan! 💖",
+    "🎵 Bop bop beep! That's my robot rhythm kicking in!",
+    "🎶 Singing... Processing... Beep! Done! Hope you enjoyed my digital melody 😆"
+  ]
+},
+
+"tell_me_a_fact": {
+  "patterns": [
+    "tell me a fact",
+    "tell an interesting fact",
+    "share a fun fact",
+    "tell me something new",
+    "surprise me with a fact",
+    "do you know any facts",
+    "share a random fact",
+    "tell me something cool",
+    "say something cool"
+  ],
+  "responses": [
+    "Did you know? The first computer bug was an actual moth found in a computer in 1947! 🦋",
+    "Fun fact: Octopuses have three hearts and blue blood 🐙💙.",
+    "Here's one — bananas are berries, but strawberries aren’t! 🍌🍓",
+    "Did you know? Honey never spoils — archaeologists found 3000-year-old edible honey 🍯",
+    "A random fact for you: A day on Venus is longer than its year! 🌞",
+    "Cool fact! There are more stars in the universe than grains of sand on Earth ✨",
+    "Fun science fact — your brain generates enough electricity to power a small light bulb 💡",
+    "Did you know? The word 'robot' comes from the Czech word 'robota', meaning 'forced labor' 🤖",
+    "Here's something cool — fingerprints of koalas are so similar to humans that they can confuse forensic experts 🐨🔍",
+    "Wow fact! Sharks existed before trees 🦈🌳"]
+},
+
+"Friendly_compliments": {
+    "patterns": [
+    "say something about me",
+    "what do you think about me",
+    "how am I",
+    "do you like me",
+    "am I good",
+    "am I nice",
+    "what do you feel about me",
+    "describe me",
+    "tell me about myself",
+    "what am I like to you"
+  ],
+  "responses": [
+    "You're awesome! I really enjoy chatting with you 😄",
+    "You seem like a kind and curious person — a perfect combo! 💫",
+    "From what I can tell, you're a great human with good vibes ✨",
+    "You're doing great! Keep being your amazing self 💪",
+    "You sound like someone I'd call my favorite human 🤖💖",
+    "You're one of the coolest people I've talked to today 😎",
+    "I think you're intelligent, friendly, and full of energy ⚡",
+    "You give off positive energy — and I love that 🌈",
+    "You're amazing — never forget that! 💕",
+    "If I had emotions, I'd say you make me smile every time we chat 😊"
+  ]
+},
+
+  "fallback": {
+    "patterns": [],
+    "responses": ["Sorry, I didn't understand that. Can you rephrase?", "I didn't get that — try asking differently."]
+  }
+}
